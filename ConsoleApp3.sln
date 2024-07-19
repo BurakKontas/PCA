@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{BF8D7FF7-2224-48E9-B914-1F835AB816E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{57E0D451-CDA5-4B18-97F0-3D8E67C98E1E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF8D7FF7-2224-48E9-B914-1F835AB816E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8D7FF7-2224-48E9-B914-1F835AB816E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8D7FF7-2224-48E9-B914-1F835AB816E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8D7FF7-2224-48E9-B914-1F835AB816E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2853B6DC-0D07-4023-8B63-F76C3534F065}
+	EndGlobalSection
+EndGlobal
